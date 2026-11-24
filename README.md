@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Olajuwon 👋
 
-<!--
-**juwns/juwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Operations and Quality professional transitioning into Data Analytics and Business Intelligence.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights, identify trends, improve processes, and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+- **Data Analysis:** Excel, Google Sheets, SQL
+- **Business Intelligence:** Power BI, Looker Studio
+- **Data Quality:** Data validation, quality analysis, root cause analysis
+- **Programming:** Python (currently learning)
+
+### What I'm Working On
+- Building practical data analytics projects
+- Developing interactive business intelligence dashboards
+- Exploring Python for data analysis and automation
+- Learning about AI and agentic workflows
+
+### Goals
+To build practical solutions that turn raw data into meaningful insights and help businesses make better decisions.
+
+I'm continuously learning, building, and documenting my progress.
